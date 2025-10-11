@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main ()
 {
-	int a,n,i,factorial,strong=0;
+	int a,b,n,i,factorial,strong=0;
 	scanf("%d",&n);
-	int b=n;
+	b=n;
 	while(n>0){
 		a=n%10;
 		for (i=1 ; i<a+1 ; i++ ){
