@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main ()
+ {  
+   int i ;
+   for( i=1; i=50; i++){ 
+    printf("\033[0;31m I LOVE YOU .\033[0m\033[1;32m MISS KRITI.\033[0m\033[0;31m I LOVE YOU .\033[0m\033[1;32m MISS KRITI.\033[0m\n");
+
+   
+   }
+ }
