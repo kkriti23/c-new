@@ -6,7 +6,7 @@ int rev(int n){
 		reverse=reverse*10+remainder;
 		n=n/10;
 	}
-	return n;
+	return reverse;
 }
 int main()
 {
